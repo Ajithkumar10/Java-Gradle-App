@@ -14,7 +14,8 @@
 ### Changes
 [23.Aug.2021]
 
-Gradle wrapper version upgraded from version 6.x to 7.0 
+Gradle wrapper version upgraded from version 6.x to 7.6
+Please refer this as per jdk: https://docs.gradle.org/current/userguide/compatibility.html
         
 ###### This will change the version in wrapper.settings
 
